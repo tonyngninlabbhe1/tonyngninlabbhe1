@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Ngninlabhe Fouetio</h1>
-<h3 align="center">Senior software student at Oregon Institute of Technology 🌟.</h3>
+<h3 align="center">Senior software engineering student at Oregon Institute of Technology 🌟.</h3>
 
 <br>
 
@@ -8,8 +8,6 @@
   </p>
 
 <br>
-
-<p><img align="right" src="https://github.com/tonyngninlabbhe1/tonyngninlabbhe1/blob/main/animation_500_kxa883sd.gif" alt="tonyngninlabbhe1" /></p>
 
 
 - 🌱 I’m currently learning React and have built some cool projects 
